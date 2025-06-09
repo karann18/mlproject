@@ -56,4 +56,10 @@ Pending:
 - Deploy a full-stack web app for real-time predictions
 
 ---
+## 📓 Main Notebook
+
+The full analysis, modeling, and results are available in the notebook below:
+
+
+> Open this notebook to see how the data was cleaned, analyzed, and used to build the predictive model.
 
