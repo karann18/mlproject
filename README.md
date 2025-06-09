@@ -59,8 +59,6 @@ Pending:
 ## 📓 Main Notebook
 
 The full analysis, modeling, and results are available in the notebook below:
-
-notebook
-
+notebook/EDA.ipynb
 > Open this notebook to see how the data was cleaned, analyzed, and used to build the predictive model.
 
